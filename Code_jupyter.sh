@@ -34,7 +34,7 @@ if [ ! -f ~/.jupyter/jupyter_notebook_config.py ]; then
    jupyter notebook --generate-config
 fi
 
-echo &apos;c.NotebookApp.disable_check_xsrf = True&apos; &gt;&gt; ~/.jupyter/jupyter_notebook_config.py
+echo &apos;c.NotebookApp.disable_check_xsrf = True; &gt;&gt; ~/.jupyter/jupyter_notebook_config.py
 
 cp $GIT_PARENT_DIR/githubcommit/config ~/.ssh/config
 </pre>
