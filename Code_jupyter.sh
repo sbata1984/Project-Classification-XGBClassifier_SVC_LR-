@@ -10,7 +10,7 @@ export GIT_REPO_NAME=gitjupyter
 export GIT_BRANCH_NAME=master
 export GIT_USER=sbata1984
 export GIT_EMAIL=h.hicham@hotmail.de
-export GITHUB_ACCESS_TOKEN=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
+export GITHUB_ACCESS_TOKEN=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
 export GIT_USER_UPSTREAM=sbata1984
 
 
