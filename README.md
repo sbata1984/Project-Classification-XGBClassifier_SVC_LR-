@@ -1,6 +1,5 @@
 <h1> <center><font size="6">Titanic EDA and Classifikation</font></center></h1>
-​
-<h2><center><font size="4">Dataset used: Santander Customer Transaction Prediction</font></center></h2>
+
 ​
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg" width="500"></img>
 
