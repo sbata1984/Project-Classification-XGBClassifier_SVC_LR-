@@ -21,8 +21,8 @@
  - <a href='#47'>Features correlations</a>      
 - <a href='#5'>Feature engineering</a>
 - <a href='#6'>Model</a>
- - <a href='#61'>Support Vector Model</a>
- - <a href='#62'>Logistic Regression Model</a>
- - <a href='#63'>Random Forest Classifier Model</a>
- - <a href='#64'>XGBoost Model</a>
+  - <a href='#61'>Support Vector Model</a>
+  - <a href='#62'>Logistic Regression Model</a>
+  - <a href='#63'>Random Forest Classifier Model</a>
+  - <a href='#64'>XGBoost Model</a>
 - <a href='#7'>Submission</a> 
